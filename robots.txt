@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raadpropertyacquisitionno65ptyltd.shop/sitemap.xml
